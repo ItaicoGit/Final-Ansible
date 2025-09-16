@@ -8,4 +8,5 @@ ansible-playbook -i inventory/aws_ec2.yaml playbook/manage_ec2.yml
 <img width="1055" height="688" alt="Capture"/>
 
 
-![picture](picture.jpg)
+![picture](https://raw.githubusercontent.com/ItaiocGit/Final-Ansible/master/picture.jpg)
+
